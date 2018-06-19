@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.6a59b43d.css",
-  "main.css.map": "static/css/main.6a59b43d.css.map",
-  "main.js": "static/js/main.815e0d0b.js",
-  "main.js.map": "static/js/main.815e0d0b.js.map",
+  "main.css": "static/css/main.4c617f26.css",
+  "main.css.map": "static/css/main.4c617f26.css.map",
+  "main.js": "static/js/main.16e75c20.js",
+  "main.js.map": "static/js/main.16e75c20.js.map",
   "static\\media\\Argentina.png": "static/media/Argentina.cf5c7f0c.png",
   "static\\media\\Australia.png": "static/media/Australia.8e16250e.png",
   "static\\media\\Belgium.png": "static/media/Belgium.b332f62f.png",
@@ -34,5 +34,6 @@
   "static\\media\\Switzerland.png": "static/media/Switzerland.13f963b7.png",
   "static\\media\\Uruguay.png": "static/media/Uruguay.97941827.png",
   "static\\media\\fwc_darkbluebg.png": "static/media/fwc_darkbluebg.9514224a.png",
-  "static\\media\\wcimg.jpg": "static/media/wcimg.23443057.jpg"
+  "static\\media\\wcimg.jpg": "static/media/wcimg.23443057.jpg",
+  "static\\media\\wcup.ico": "static/media/wcup.ab2a87f6.ico"
 }
